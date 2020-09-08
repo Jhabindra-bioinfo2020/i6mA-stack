@@ -1,4 +1,4 @@
-# i6mA-stack-
+# i6mA-stack: A stacking ensemble-based computational prediction of DNA N6-methyladenine (6mA) sites in the Rosaceae genome
 The files include,
 The complete datasets,
 Codes for  five encoding schemes and prediction,  
